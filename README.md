@@ -15,4 +15,5 @@
 ## NVIDIA CUDA 라이브러리를 이용한 다양한 영상처리 (YUV420 <-> RGB888)
 ## NVIDIA VIDEO SDK를 이용한 HEVC 포맷 스트리밍 고속 복호화 서비스 구현
 ## MFC를 이용한 영상 플레이어 제작
-## 
+## Python Code C++ 에서 실행 (Boost Python)
+
