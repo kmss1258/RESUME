@@ -7,6 +7,9 @@
 ## API
 ## OpenCV, OpenGL, MFC, Tensorflow, Keras
 
+## 관심 분야
+## Image Processing, Machine/Reinforcement Learning, GPGPU Computing Acceleration, Point Cloud Surface Reconstruction
+
 ## DirectX9를 이용한 NV12(YUV Image) 형식 데이터 고속 렌더링
 ## From Raw-based to OpenCV 영상처리
 ## NVIDIA CUDA 라이브러리를 이용한 다양한 영상처리 (YUV420 <-> RGB888)
