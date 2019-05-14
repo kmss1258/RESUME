@@ -2,10 +2,10 @@
 진행 프로젝트 별로 기술하는게 나을 듯
 
 ## LANGUAGE
-## C, C++, Python, CUDA
+## C, C++, JAVA, Python, CUDA
 
 ## API
-## OpenCV, OpenGL, MFC, Tensorflow, Keras
+## OpenCV, OpenGL, Android SDK, MFC, Tensorflow, Keras
 
 ## 관심 분야
 ## Image Processing, Machine/Reinforcement Learning, GPGPU Computing Acceleration, Point Cloud Surface Reconstruction
